@@ -2,7 +2,7 @@
 #include "ledcircle.h"
 
 
-void ledcircle_select(uint8_t led) {
+void ledcircle_select(uint16_t led) {
   // TODO Your implementation here
 
   // TODO remove this code. This just turns off all LEDs.
